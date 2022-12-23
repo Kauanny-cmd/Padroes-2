@@ -1,5 +1,5 @@
 export interface ExercicioFavorito {
-  /* A interfaxe ExercicioFavoritonotifique na nossa classe principal, qual decisão foi tomada.*/
+  /* A interfaxe ExercicioFavorito notifica na nossa classe principal, qual decisão foi tomada.*/
 
   
     comecar(): void;
